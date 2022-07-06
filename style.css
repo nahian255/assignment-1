@@ -1,2 +1,8 @@
-body{font-family: 'Poppins', sans-serif;}
-h1{ font-size: 40px;}
+body{font-family: 'Poppins', sans-serif;  
+    background-image: url("donation3.jpg") 
+    
+
+}
+h1{ font-size: 40px;
+ color: aliceblue;
+}
